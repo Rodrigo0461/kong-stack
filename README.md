@@ -1,2 +1,7 @@
 # kong-stack
-Kong 
+ 
+
+Levantar Stack kong/kong-postgresql/konga
+
+`docker-compose up -d`
+
